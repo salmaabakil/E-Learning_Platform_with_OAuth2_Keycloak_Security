@@ -28,11 +28,6 @@ Logout
 
 ---
 
-
-*Remplace ce schéma par une image si tu veux plus de clarté : `architecture.png`*
-
----
-
 ## Fonctionnalités
 
 ### Pour STUDENT

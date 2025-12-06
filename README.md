@@ -73,15 +73,19 @@ Logout
 
 ### Connexion réussie
 ![WhatsApp Image 2025-12-05 at 22 51 17_5dfdc125](https://github.com/user-attachments/assets/46fb04c5-bcab-4c60-b4ad-a1288293599b)
+
 ![WhatsApp Image 2025-12-05 at 22 51 55_51593a88](https://github.com/user-attachments/assets/e3d1d5ef-ac54-4ab3-b0b8-b0072b93273f)
 
 
 ### Informations du profil avec Rôles affichés dans React
 
 **STUDENT**
+
 ![WhatsApp Image 2025-12-06 at 13 11 07_43c9290d](https://github.com/user-attachments/assets/cd862dcc-bcc6-46f4-a621-94d517bfaf2d)
 
+
 **ADMIN**
+
 ![WhatsApp Image 2025-12-06 at 13 11 57_1233c209](https://github.com/user-attachments/assets/a36caba8-c0ab-40a4-b3ae-53ca79a75bf0)
 
 
